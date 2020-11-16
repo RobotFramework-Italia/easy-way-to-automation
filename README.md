@@ -24,4 +24,4 @@
 ## Tool
 * Ppt perchè automation: https://docs.google.com/presentation/d/1sNyf_IJN9h_vjEYgHLszdXFvsgm_DqMi-06k4DZ7ya8/edit?usp=sharing
 * Meetup: google meet
-* Jamboard: google meet --> https://jamboard.google.com/d/1Mpnmbx0woZpvdq8lwHb4C_CE488cQScQg0X4Br5BbY8/edit?usp=sharing
+* Jamboard: google meet: https://jamboard.google.com/d/1Mpnmbx0woZpvdq8lwHb4C_CE488cQScQg0X4Br5BbY8/edit?usp=sharing
