@@ -11,7 +11,7 @@
 * General basics - Robot Framework = Keywords, settings, ecc ( Andrea 19:05 - 19:20 )
 * BrowserLibrary con postilla su Selenium ( Angelo 19:20 - 19:30 )
 * Hands on - Primo test case DUMMY
-  * definizione test Dummy 
+  * definizione test Dummy
   * Esecuzione test Dummy ( Angelo 19:30 - 19:45 )
 * Hands on - Primo test case VERO
   * Definizione del test ( Andrea )
