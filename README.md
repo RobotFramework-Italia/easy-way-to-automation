@@ -11,17 +11,18 @@
 * General basics - Robot Framework = Keywords, settings, ecc ( Andrea 19:05 - 19:20 )
 * BrowserLibrary con postilla su Selenium ( Angelo 19:20 - 19:30 )
 * Hands on - Primo test case DUMMY
-    * definizione test Dummy 
-    * Esecuzione test Dummy ( Angelo 19:30 - 19:45 )
+  * definizione test Dummy 
+  * Esecuzione test Dummy ( Angelo 19:30 - 19:45 )
 * Hands on - Primo test case VERO
-    * Definizione del test ( Andrea )
-    * Scelta / creazione sito per test ( Andrea )
-    * Esecuzione test ( Andrea - Angelo 19:45 - 20:20 )
-    * aggiunte = Best practice, keyword aggiuntive, locator ecc.. (?) https://www.youtube.com/watch?v=rgpqyPblo28 
+  * Definizione del test ( Andrea )
+  * Scelta / creazione sito per test ( Andrea )
+  * Esecuzione test ( Andrea - Angelo 19:45 - 20:20 )
+  * aggiunte = Best practice, keyword aggiuntive, locator ecc.. (?) <https://www.youtube.com/watch?v=rgpqyPblo28> 
 * Risultato JAMboard: chiedere agli spettatori se abbiamo soddisfatto le aspettative
 * Chiedere pareri su prossimi meetup
 
 ## Tool
-* Ppt perchè automation: https://docs.google.com/presentation/d/1sNyf_IJN9h_vjEYgHLszdXFvsgm_DqMi-06k4DZ7ya8/edit?usp=sharing
+
+* Ppt perchè automation: <https://docs.google.com/presentation/d/1sNyf_IJN9h_vjEYgHLszdXFvsgm_DqMi-06k4DZ7ya8/edit?usp=sharing>
 * Meetup: google meet
-* Jamboard: google meet: https://jamboard.google.com/d/1Mpnmbx0woZpvdq8lwHb4C_CE488cQScQg0X4Br5BbY8/edit?usp=sharing
+* Jamboard: google meet: <https://jamboard.google.com/d/1Mpnmbx0woZpvdq8lwHb4C_CE488cQScQg0X4Br5BbY8/edit?usp=sharing>
