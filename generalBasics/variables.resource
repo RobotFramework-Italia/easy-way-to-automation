@@ -1,0 +1,2 @@
+***Variables***
+${SETUP}  Log setup
