@@ -9,7 +9,7 @@
 * Perchè automatizzare ( Angelo 18:50 - 19:00 )  
 * Quando automatizzare ( Andrea 19:00 - 19:05 )
 * General basics - Robot Framework = Keywords, settings, ecc ( Andrea 19:05 - 19:20 )
-* BrowserLibrary con postilla su Selenium ( Angelo 19:20 - 19:30 )
+* BrowserLibrary con postilla su Selenium ( Angelo 19:20 - 19:30 ) https://robotframework-browser.org/
 * Hands on - Primo test case DUMMY
   * definizione test Dummy
   * Esecuzione test Dummy ( Angelo 19:30 - 19:45 )
