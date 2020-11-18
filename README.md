@@ -2,6 +2,14 @@
 
 ![robot](./robot-run.gif)
 
+## Materiale usato durante il meetup
+
+Potete trovare il materiale usato durante il meetup rispettivamente dentro le cartelle:
+
+* ./pdf/ 
+* ./generalBasics/
+* ./realWorld_testCase/
+
 ## Scaletta
 
 * Preparazione dell'hardware (18:10 - 18:30)
@@ -26,3 +34,5 @@
 * Ppt perchè automation: <https://docs.google.com/presentation/d/1sNyf_IJN9h_vjEYgHLszdXFvsgm_DqMi-06k4DZ7ya8/edit?usp=sharing>
 * Meetup: google meet
 * Jamboard: google meet: <https://jamboard.google.com/d/1Mpnmbx0woZpvdq8lwHb4C_CE488cQScQg0X4Br5BbY8/edit?usp=sharing>
+
+
